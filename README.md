@@ -117,4 +117,4 @@ echo "\c template1;\COPY users  FROM '/home/project/transformed-data.csv' DELIMI
 Save the file.
 
 ### checking results
-![image](./data_loaded into_sql_table.png)
+![image](https://github.com/isbainemohamed/ETL-Pipeline-using-Bash/blob/57451532b27e6bd16503555aea006f1d7016bc55/data_loaded%20into_sql_table.png)
