@@ -115,3 +115,6 @@ echo "Loading data" Send the instructions to connect to 'template1' and copy the
 
 echo "\c template1;\COPY users  FROM '/home/project/transformed-data.csv' DELIMITERS ',' CSV;" | psql --username=postgres --host=localhost
 Save the file.
+
+### checking results
+![image](.png)
