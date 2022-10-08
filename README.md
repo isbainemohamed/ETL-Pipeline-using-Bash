@@ -117,4 +117,4 @@ echo "\c template1;\COPY users  FROM '/home/project/transformed-data.csv' DELIMI
 Save the file.
 
 ### checking results
-![image](data_loaded_into_sql_table.png)
+![image](./data_loaded into_sql_table.png)
